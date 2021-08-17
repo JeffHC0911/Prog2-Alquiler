@@ -204,7 +204,7 @@ public class App {
                 int elegir = 0;
                 do {
                         String opciones = "\nDatos para buscar:\n"
-                                        + " 1 - Apartamentos                                            \n"
+                                        + " 1 - Apartamento                                            \n"
                                         + " 2 - Locales                                                  \n"
                                         + " 3 - Inmuebles                                                 \n"
                                         + " 4 - Arrendatarios                                               \n"
