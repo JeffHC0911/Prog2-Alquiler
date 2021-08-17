@@ -1,0 +1,312 @@
+[
+    {
+        "descripcion": "Es comoda",
+        "area": 33,
+        "codigo": "AP00",
+        "administrador": {
+            "correo": "estebitan12@gmail.com",
+            "identificacion": "E02",
+            "telefono": "3212334332",
+            "nombre": "Esteban Manuel",
+            "perfil": "ADMINISTRADOR"
+        },
+        "valorArriendo": 3400000,
+        "codigoPostal": "324232",
+        "propietaria": {
+            "correo": "inmusa@gmail.com",
+            "nit": "0001111",
+            "direccion": "Bogotá D.C",
+            "telefono": "018009945",
+            "nombre": "INMUEBLES S.A",
+            "gerente": {
+                "correo": "macasa@gmail.com",
+                "identificacion": "E00",
+                "telefono": "3014567812",
+                "nombre": "Mario Casas",
+                "perfil": "GERENTE"
+            }
+        },
+        "direccion": "Pasto",
+        "inmueble": {
+            "descripcion": "sdfhd",
+            "area": 333,
+            "codigo": "I01",
+            "administrador": {
+                "correo": "estebitan12@gmail.com",
+                "identificacion": "E02",
+                "telefono": "3212334332",
+                "nombre": "Esteban Manuel",
+                "perfil": "ADMINISTRADOR"
+            },
+            "valorArriendo": 3333,
+            "codigoPostal": "34324",
+            "propietaria": {
+                "correo": "inmusa@gmail.com",
+                "nit": "0001111",
+                "direccion": "Bogotá D.C",
+                "telefono": "018009945",
+                "nombre": "INMUEBLES S.A",
+                "gerente": {
+                    "correo": "macasa@gmail.com",
+                    "identificacion": "E00",
+                    "telefono": "3014567812",
+                    "nombre": "Mario Casas",
+                    "perfil": "GERENTE"
+                }
+            },
+            "direccion": "sfds",
+            "tipoInmueble": "CASA",
+            "disponible": true
+        },
+        "tipoInmueble": "CONSTRUCCION",
+        "disponible": false
+    },
+    {
+        "descripcion": "Grande",
+        "area": 333,
+        "codigo": "AP01",
+        "administrador": {
+            "correo": "estebitan12@gmail.com",
+            "identificacion": "E02",
+            "telefono": "3212334332",
+            "nombre": "Esteban Manuel",
+            "perfil": "ADMINISTRADOR"
+        },
+        "valorArriendo": 5000000,
+        "codigoPostal": "13214",
+        "propietaria": {
+            "correo": "inmusa@gmail.com",
+            "nit": "0001111",
+            "direccion": "Bogotá D.C",
+            "telefono": "018009945",
+            "nombre": "INMUEBLES S.A",
+            "gerente": {
+                "correo": "macasa@gmail.com",
+                "identificacion": "E00",
+                "telefono": "3014567812",
+                "nombre": "Mario Casas",
+                "perfil": "GERENTE"
+            }
+        },
+        "direccion": "Cucuta",
+        "inmueble": {
+            "descripcion": "sdfhd",
+            "area": 333,
+            "codigo": "I01",
+            "administrador": {
+                "correo": "estebitan12@gmail.com",
+                "identificacion": "E02",
+                "telefono": "3212334332",
+                "nombre": "Esteban Manuel",
+                "perfil": "ADMINISTRADOR"
+            },
+            "valorArriendo": 3333,
+            "codigoPostal": "34324",
+            "propietaria": {
+                "correo": "inmusa@gmail.com",
+                "nit": "0001111",
+                "direccion": "Bogotá D.C",
+                "telefono": "018009945",
+                "nombre": "INMUEBLES S.A",
+                "gerente": {
+                    "correo": "macasa@gmail.com",
+                    "identificacion": "E00",
+                    "telefono": "3014567812",
+                    "nombre": "Mario Casas",
+                    "perfil": "GERENTE"
+                }
+            },
+            "direccion": "sfds",
+            "tipoInmueble": "CASA",
+            "disponible": true
+        },
+        "tipoInmueble": "CONSTRUCCION",
+        "disponible": false
+    },
+    {
+        "descripcion": "sdfs",
+        "area": 123,
+        "codigo": "AP02",
+        "administrador": {
+            "correo": "mariavar@gmail.com",
+            "identificacion": "E03",
+            "telefono": "3103567850",
+            "nombre": "Maria Vargas",
+            "perfil": "ADMINISTRADOR"
+        },
+        "valorArriendo": 120000,
+        "codigoPostal": "3333",
+        "propietaria": {
+            "correo": "inmusa@gmail.com",
+            "nit": "0001111",
+            "direccion": "Bogotá D.C",
+            "telefono": "018009945",
+            "nombre": "INMUEBLES S.A",
+            "gerente": {
+                "correo": "macasa@gmail.com",
+                "identificacion": "E00",
+                "telefono": "3014567812",
+                "nombre": "Mario Casas",
+                "perfil": "GERENTE"
+            }
+        },
+        "direccion": "222222",
+        "inmueble": {
+            "descripcion": "spdhf",
+            "area": 22,
+            "codigo": "I02",
+            "administrador": {
+                "correo": "mariavar@gmail.com",
+                "identificacion": "E03",
+                "telefono": "3103567850",
+                "nombre": "Maria Vargas",
+                "perfil": "ADMINISTRADOR"
+            },
+            "valorArriendo": 1111,
+            "codigoPostal": "32432",
+            "propietaria": {
+                "correo": "inmusa@gmail.com",
+                "nit": "0001111",
+                "direccion": "Bogotá D.C",
+                "telefono": "018009945",
+                "nombre": "INMUEBLES S.A",
+                "gerente": {
+                    "correo": "macasa@gmail.com",
+                    "identificacion": "E00",
+                    "telefono": "3014567812",
+                    "nombre": "Mario Casas",
+                    "perfil": "GERENTE"
+                }
+            },
+            "direccion": "sdf",
+            "tipoInmueble": "FINCA",
+            "disponible": true
+        },
+        "tipoInmueble": "CONSTRUCCION",
+        "disponible": false
+    },
+    {
+        "descripcion": "Es comodo",
+        "area": 250,
+        "codigo": "AP03",
+        "administrador": {
+            "correo": "mariavar@gmail.com",
+            "identificacion": "E03",
+            "telefono": "3103567850",
+            "nombre": "Maria Vargas",
+            "perfil": "ADMINISTRADOR"
+        },
+        "valorArriendo": 560000,
+        "codigoPostal": "31213",
+        "propietaria": {
+            "correo": "inmusa@gmail.com",
+            "nit": "0001111",
+            "direccion": "Bogotá D.C",
+            "telefono": "018009945",
+            "nombre": "INMUEBLES S.A",
+            "gerente": {
+                "correo": "macasa@gmail.com",
+                "identificacion": "E00",
+                "telefono": "3014567812",
+                "nombre": "Mario Casas",
+                "perfil": "GERENTE"
+            }
+        },
+        "direccion": "Cra21#20-20",
+        "inmueble": {
+            "descripcion": "spdhf",
+            "area": 22,
+            "codigo": "I02",
+            "administrador": {
+                "correo": "mariavar@gmail.com",
+                "identificacion": "E03",
+                "telefono": "3103567850",
+                "nombre": "Maria Vargas",
+                "perfil": "ADMINISTRADOR"
+            },
+            "valorArriendo": 1111,
+            "codigoPostal": "32432",
+            "propietaria": {
+                "correo": "inmusa@gmail.com",
+                "nit": "0001111",
+                "direccion": "Bogotá D.C",
+                "telefono": "018009945",
+                "nombre": "INMUEBLES S.A",
+                "gerente": {
+                    "correo": "macasa@gmail.com",
+                    "identificacion": "E00",
+                    "telefono": "3014567812",
+                    "nombre": "Mario Casas",
+                    "perfil": "GERENTE"
+                }
+            },
+            "direccion": "sdf",
+            "tipoInmueble": "FINCA",
+            "disponible": true
+        },
+        "tipoInmueble": "CONSTRUCCION",
+        "disponible": true
+    },
+    {
+        "descripcion": "Una ventana",
+        "area": 160,
+        "codigo": "AP04",
+        "administrador": {
+            "correo": "manuel@gmail.com",
+            "identificacion": "E05",
+            "telefono": "3213334534",
+            "nombre": "Manuel",
+            "perfil": "ADMINISTRADOR"
+        },
+        "valorArriendo": 200000,
+        "codigoPostal": "13134",
+        "propietaria": {
+            "correo": "inmusa@gmail.com",
+            "nit": "0001111",
+            "direccion": "Bogotá D.C",
+            "telefono": "018009945",
+            "nombre": "INMUEBLES S.A",
+            "gerente": {
+                "correo": "macasa@gmail.com",
+                "identificacion": "E00",
+                "telefono": "3014567812",
+                "nombre": "Mario Casas",
+                "perfil": "GERENTE"
+            }
+        },
+        "direccion": "Cra12#20",
+        "inmueble": {
+            "descripcion": "Dos pisos",
+            "area": 350,
+            "codigo": "I03",
+            "administrador": {
+                "correo": "manuel@gmail.com",
+                "identificacion": "E05",
+                "telefono": "3213334534",
+                "nombre": "Manuel",
+                "perfil": "ADMINISTRADOR"
+            },
+            "valorArriendo": 1240000,
+            "codigoPostal": "12123",
+            "propietaria": {
+                "correo": "inmusa@gmail.com",
+                "nit": "0001111",
+                "direccion": "Bogotá D.C",
+                "telefono": "018009945",
+                "nombre": "INMUEBLES S.A",
+                "gerente": {
+                    "correo": "macasa@gmail.com",
+                    "identificacion": "E00",
+                    "telefono": "3014567812",
+                    "nombre": "Mario Casas",
+                    "perfil": "GERENTE"
+                }
+            },
+            "direccion": "Manizales",
+            "tipoInmueble": "EDIFICIO",
+            "disponible": false
+        },
+        "tipoInmueble": "CONSTRUCCION",
+        "disponible": false
+    }
+]

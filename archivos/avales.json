@@ -1,0 +1,106 @@
+[
+    {
+        "fecha": "2021-10-20",
+        "tipoAval": "BANCARIO",
+        "contrato": {
+            "codigo": "C05",
+            "terminos": ".........",
+            "fechaInicio": "2021-01-01",
+            "arrendatario": {
+                "foto": "foto1",
+                "fechaNacimiento": "1970-04-20",
+                "correo": "johanmahe@gmail.com",
+                "identificacion": "A01",
+                "sexo": "m",
+                "telefono": "3212223344",
+                "nombre": "Johan Manuel Henao"
+            },
+            "fechaFirma": "2020-02-12",
+            "inmueble": {
+                "area": 250,
+                "descripcion": "Es comodo",
+                "codigo": "AP03",
+                "administrador": {
+                    "correo": "mariavar@gmail.com",
+                    "identificacion": "E03",
+                    "telefono": "3103567850",
+                    "nombre": "Maria Vargas",
+                    "perfil": "ADMINISTRADOR"
+                },
+                "valorArriendo": 560000,
+                "codigoPostal": "31213",
+                "propietaria": {
+                    "correo": "inmusa@gmail.com",
+                    "direccion": "Bogotá D.C",
+                    "nit": "0001111",
+                    "telefono": "018009945",
+                    "nombre": "INMUEBLES S.A",
+                    "gerente": {
+                        "correo": "macasa@gmail.com",
+                        "identificacion": "E00",
+                        "telefono": "3014567812",
+                        "nombre": "Mario Casas",
+                        "perfil": "GERENTE"
+                    }
+                },
+                "direccion": "Cra21#20-20",
+                "tipoInmueble": "CONSTRUCCION",
+                "disponible": true
+            },
+            "fechaFin": "2021-05-12"
+        },
+        "detalle": "Avalado por BBVA"
+    },
+    {
+        "fecha": "2021-04-10",
+        "tipoAval": "TERCERO",
+        "contrato": {
+            "codigo": "C03",
+            "terminos": "Cumplen",
+            "fechaInicio": "2021-02-02",
+            "arrendatario": {
+                "foto": "foto2",
+                "fechaNacimiento": "1960-04-12",
+                "correo": "manuloaiza@gmail.com",
+                "identificacion": "A02",
+                "sexo": "f",
+                "telefono": "3145654321",
+                "nombre": "Manuela Loaiza"
+            },
+            "fechaFirma": "2020-12-12",
+            "inmueble": {
+                "area": 123,
+                "descripcion": "sdfs",
+                "codigo": "AP02",
+                "administrador": {
+                    "correo": "mariavar@gmail.com",
+                    "identificacion": "E03",
+                    "telefono": "3103567850",
+                    "nombre": "Maria Vargas",
+                    "perfil": "ADMINISTRADOR"
+                },
+                "valorArriendo": 5555,
+                "codigoPostal": "3333",
+                "propietaria": {
+                    "correo": "inmusa@gmail.com",
+                    "direccion": "Bogotá D.C",
+                    "nit": "0001111",
+                    "telefono": "018009945",
+                    "nombre": "INMUEBLES S.A",
+                    "gerente": {
+                        "correo": "macasa@gmail.com",
+                        "identificacion": "E00",
+                        "telefono": "3014567812",
+                        "nombre": "Mario Casas",
+                        "perfil": "GERENTE"
+                    }
+                },
+                "direccion": "222222",
+                "tipoInmueble": "CONSTRUCCION",
+                "disponible": true
+            },
+            "fechaFin": "2021-04-13"
+        },
+        "detalle": "Avalado por un vecino"
+    }
+]

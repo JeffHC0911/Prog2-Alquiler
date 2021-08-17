@@ -1,0 +1,84 @@
+[
+    {
+        "tipoPersona": "EMPLEADO",
+        "correo": "lau@gmail.com",
+        "identificacion": "E02",
+        "telefono": "3143456789",
+        "nombre": "Laura Sofia Lopez",
+        "perfil": "ADMINISTRADOR"
+    },
+    {
+        "tipoPersona": "EMPLEADO",
+        "correo": "johanlea@gmail.com",
+        "identificacion": "E03",
+        "telefono": "3112345678",
+        "nombre": "Johan Leandro Gonzales",
+        "perfil": "ADMINISTRADOR"
+    },
+    {
+        "tipoPersona": "EMPLEADO",
+        "correo": "majo@gmail.com",
+        "identificacion": "E04",
+        "telefono": "3154563321",
+        "nombre": "Maria Jose Morales",
+        "perfil": "ADMINISTRADOR"
+    },
+    {
+        "tipoPersona": "ARRENDATARIO",
+        "foto": "c://foto1.jpg",
+        "fechaNacimiento": "2001-04-09",
+        "correo": "jeffer@gmail.com",
+        "identificacion": "A01",
+        "sexo": "m",
+        "telefono": "3112345678",
+        "nombre": "Jefferson Henao Cano"
+    },
+    {
+        "tipoPersona": "ARRENDATARIO",
+        "foto": "c://foto3.jpg",
+        "fechaNacimiento": "1995-09-10",
+        "correo": "vale@gmail.com",
+        "identificacion": "A02",
+        "sexo": "f",
+        "telefono": "3134563344",
+        "nombre": "Valentina Gaviria"
+    },
+    {
+        "tipoPersona": "ARRENDATARIO",
+        "foto": "c://foto4.png",
+        "fechaNacimiento": "2002-01-17",
+        "correo": "luzan@gmail.com",
+        "identificacion": "A03",
+        "sexo": "f",
+        "telefono": "3145654433",
+        "nombre": "Luz Angela Londo\u0000o"
+    },
+    {
+        "tipoPersona": "ARRENDATARIO",
+        "foto": "c://foto5.jpg",
+        "fechaNacimiento": "1976-08-08",
+        "correo": "andres@gmail.com",
+        "identificacion": "A04",
+        "sexo": "m",
+        "telefono": "3145673344",
+        "nombre": "Andres Garcia"
+    },
+    {
+        "tipoPersona": "EMPLEADO",
+        "correo": "sonia.carvajal@gmail.com",
+        "identificacion": "E05",
+        "telefono": "3112345678",
+        "nombre": "Sonia Carvajal",
+        "perfil": "ADMINISTRADOR"
+    },
+    {
+        "tipoPersona": "ARRENDATARIO",
+        "foto": "Cualquier",
+        "fechaNacimiento": "2000-04-20",
+        "correo": "vale.morales@hotmail.com",
+        "identificacion": "A05",
+        "sexo": "f",
+        "telefono": "3142345634",
+        "nombre": "Valentina Morales"
+    }
+]

@@ -1,0 +1,4 @@
+I01    1212     Manizales            200     1200000   Si  Es grande                        E02                       CASA
+I03    1345     Bogota               300     1300000   Si  Grande                           E02                       CASA
+I04    1231     Barranquilla         500     3000000   No  Vista al mar                     E04                       CASA
+I05    01012    Cali                 850     8000000   Si  Esta a las afueras               E02                       FINCA

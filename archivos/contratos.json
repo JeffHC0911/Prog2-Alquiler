@@ -1,0 +1,284 @@
+[
+    {
+        "codigo": "C01",
+        "terminos": "sfds",
+        "fechaInicio": "2021-02-02",
+        "arrendatario": {
+            "foto": "foto2",
+            "fechaNacimiento": "1960-04-12",
+            "correo": "manuloaiza@gmail.com",
+            "identificacion": "A02",
+            "sexo": "f",
+            "telefono": "3145654321",
+            "nombre": "Manuela Loaiza"
+        },
+        "fechaFirma": "2020-02-02",
+        "inmueble": {
+            "area": 333,
+            "descripcion": "sdfhd",
+            "codigo": "I01",
+            "administrador": {
+                "correo": "estebitan12@gmail.com",
+                "identificacion": "E02",
+                "telefono": "3212334332",
+                "nombre": "Esteban Manuel",
+                "perfil": "ADMINISTRADOR"
+            },
+            "valorArriendo": 3333,
+            "codigoPostal": "34324",
+            "propietaria": {
+                "correo": "inmusa@gmail.com",
+                "direccion": "Bogotá D.C",
+                "nit": "0001111",
+                "telefono": "018009945",
+                "nombre": "INMUEBLES S.A",
+                "gerente": {
+                    "correo": "macasa@gmail.com",
+                    "identificacion": "E00",
+                    "telefono": "3014567812",
+                    "nombre": "Mario Casas",
+                    "perfil": "GERENTE"
+                }
+            },
+            "direccion": "sfds",
+            "tipoInmueble": "CASA",
+            "disponible": true
+        },
+        "fechaFin": "2022-01-01"
+    },
+    {
+        "codigo": "C02",
+        "terminos": "sdf",
+        "fechaInicio": "2021-03-03",
+        "arrendatario": {
+            "foto": "foto1",
+            "fechaNacimiento": "1970-04-20",
+            "correo": "johanmahe@gmail.com",
+            "identificacion": "A01",
+            "sexo": "m",
+            "telefono": "3212223344",
+            "nombre": "Johan Manuel Henao"
+        },
+        "fechaFirma": "2021-02-02",
+        "inmueble": {
+            "area": 22,
+            "descripcion": "spdhf",
+            "codigo": "I02",
+            "administrador": {
+                "correo": "mariavar@gmail.com",
+                "identificacion": "E03",
+                "telefono": "3103567850",
+                "nombre": "Maria Vargas",
+                "perfil": "ADMINISTRADOR"
+            },
+            "valorArriendo": 1111,
+            "codigoPostal": "32432",
+            "propietaria": {
+                "correo": "inmusa@gmail.com",
+                "direccion": "Bogotá D.C",
+                "nit": "0001111",
+                "telefono": "018009945",
+                "nombre": "INMUEBLES S.A",
+                "gerente": {
+                    "correo": "macasa@gmail.com",
+                    "identificacion": "E00",
+                    "telefono": "3014567812",
+                    "nombre": "Mario Casas",
+                    "perfil": "GERENTE"
+                }
+            },
+            "direccion": "sdf",
+            "tipoInmueble": "FINCA",
+            "disponible": true
+        },
+        "fechaFin": "2021-04-04"
+    },
+    {
+        "codigo": "C03",
+        "terminos": "Cumplen",
+        "fechaInicio": "2021-02-02",
+        "arrendatario": {
+            "foto": "foto2",
+            "fechaNacimiento": "1960-04-12",
+            "correo": "manuloaiza@gmail.com",
+            "identificacion": "A02",
+            "sexo": "f",
+            "telefono": "3145654321",
+            "nombre": "Manuela Loaiza"
+        },
+        "fechaFirma": "2020-12-12",
+        "inmueble": {
+            "area": 123,
+            "descripcion": "sdfs",
+            "codigo": "AP02",
+            "administrador": {
+                "correo": "mariavar@gmail.com",
+                "identificacion": "E03",
+                "telefono": "3103567850",
+                "nombre": "Maria Vargas",
+                "perfil": "ADMINISTRADOR"
+            },
+            "valorArriendo": 5555,
+            "codigoPostal": "3333",
+            "propietaria": {
+                "correo": "inmusa@gmail.com",
+                "direccion": "Bogotá D.C",
+                "nit": "0001111",
+                "telefono": "018009945",
+                "nombre": "INMUEBLES S.A",
+                "gerente": {
+                    "correo": "macasa@gmail.com",
+                    "identificacion": "E00",
+                    "telefono": "3014567812",
+                    "nombre": "Mario Casas",
+                    "perfil": "GERENTE"
+                }
+            },
+            "direccion": "222222",
+            "tipoInmueble": "CONSTRUCCION",
+            "disponible": true
+        },
+        "fechaFin": "2021-04-13"
+    },
+    {
+        "codigo": "C04",
+        "terminos": "fff",
+        "fechaInicio": "2001-02-03",
+        "arrendatario": {
+            "foto": "foto1",
+            "fechaNacimiento": "1970-04-20",
+            "correo": "johanmahe@gmail.com",
+            "identificacion": "A01",
+            "sexo": "m",
+            "telefono": "3212223344",
+            "nombre": "Johan Manuel Henao"
+        },
+        "fechaFirma": "2000-12-12",
+        "inmueble": {
+            "area": 22,
+            "descripcion": "spdhf",
+            "codigo": "I02",
+            "administrador": {
+                "correo": "mariavar@gmail.com",
+                "identificacion": "E03",
+                "telefono": "3103567850",
+                "nombre": "Maria Vargas",
+                "perfil": "ADMINISTRADOR"
+            },
+            "valorArriendo": 1111,
+            "codigoPostal": "32432",
+            "propietaria": {
+                "correo": "inmusa@gmail.com",
+                "direccion": "Bogotá D.C",
+                "nit": "0001111",
+                "telefono": "018009945",
+                "nombre": "INMUEBLES S.A",
+                "gerente": {
+                    "correo": "macasa@gmail.com",
+                    "identificacion": "E00",
+                    "telefono": "3014567812",
+                    "nombre": "Mario Casas",
+                    "perfil": "GERENTE"
+                }
+            },
+            "direccion": "sdf",
+            "tipoInmueble": "FINCA",
+            "disponible": true
+        },
+        "fechaFin": "2002-12-12"
+    },
+    {
+        "codigo": "C05",
+        "terminos": ".........",
+        "fechaInicio": "2021-01-01",
+        "arrendatario": {
+            "foto": "foto1",
+            "fechaNacimiento": "1970-04-20",
+            "correo": "johanmahe@gmail.com",
+            "identificacion": "A01",
+            "sexo": "m",
+            "telefono": "3212223344",
+            "nombre": "Johan Manuel Henao"
+        },
+        "fechaFirma": "2020-02-12",
+        "inmueble": {
+            "area": 250,
+            "descripcion": "Es comodo",
+            "codigo": "AP03",
+            "administrador": {
+                "correo": "mariavar@gmail.com",
+                "identificacion": "E03",
+                "telefono": "3103567850",
+                "nombre": "Maria Vargas",
+                "perfil": "ADMINISTRADOR"
+            },
+            "valorArriendo": 560000,
+            "codigoPostal": "31213",
+            "propietaria": {
+                "correo": "inmusa@gmail.com",
+                "direccion": "Bogotá D.C",
+                "nit": "0001111",
+                "telefono": "018009945",
+                "nombre": "INMUEBLES S.A",
+                "gerente": {
+                    "correo": "macasa@gmail.com",
+                    "identificacion": "E00",
+                    "telefono": "3014567812",
+                    "nombre": "Mario Casas",
+                    "perfil": "GERENTE"
+                }
+            },
+            "direccion": "Cra21#20-20",
+            "tipoInmueble": "CONSTRUCCION",
+            "disponible": true
+        },
+        "fechaFin": "2021-05-12"
+    },
+    {
+        "codigo": "C06",
+        "terminos": "cvcvcv",
+        "fechaInicio": "2021-05-10",
+        "arrendatario": {
+            "foto": "foto2",
+            "fechaNacimiento": "1960-04-12",
+            "correo": "manuloaiza@gmail.com",
+            "identificacion": "A02",
+            "sexo": "f",
+            "telefono": "3145654321",
+            "nombre": "Manuela Loaiza"
+        },
+        "fechaFirma": "2021-02-20",
+        "inmueble": {
+            "area": 250,
+            "descripcion": "En el primer piso",
+            "codigo": "L03",
+            "administrador": {
+                "correo": "manuel@gmail.com",
+                "identificacion": "E05",
+                "telefono": "3213334534",
+                "nombre": "Manuel",
+                "perfil": "ADMINISTRADOR"
+            },
+            "valorArriendo": 600000,
+            "codigoPostal": "12332",
+            "propietaria": {
+                "correo": "inmusa@gmail.com",
+                "direccion": "Bogotá D.C",
+                "nit": "0001111",
+                "telefono": "018009945",
+                "nombre": "INMUEBLES S.A",
+                "gerente": {
+                    "correo": "macasa@gmail.com",
+                    "identificacion": "E00",
+                    "telefono": "3014567812",
+                    "nombre": "Mario Casas",
+                    "perfil": "GERENTE"
+                }
+            },
+            "direccion": "Cl21 en la esquina",
+            "tipoInmueble": "CONSTRUCCION",
+            "disponible": true
+        },
+        "fechaFin": "2021-10-10"
+    }
+]

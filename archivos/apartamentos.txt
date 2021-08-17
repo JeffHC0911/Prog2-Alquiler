@@ -1,0 +1,4 @@
+I01     AP01   1414   Cl12                           60   200000     No  Regular
+I03     AP02   4040   Cra34 #12-12                   75   250000     Si  En el centro de la ciudad
+I04     AP03   1234   Cra23                          100  400000     Si  Es amplio
+I04     AP04   30007  Cra21#12-10                    250  680000     Si  6 habitaciones

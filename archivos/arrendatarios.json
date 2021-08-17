@@ -1,0 +1,20 @@
+[
+    {
+        "foto": "foto1",
+        "fechaNacimiento": "1970-04-20",
+        "correo": "johanmahe@gmail.com",
+        "identificacion": "A01",
+        "sexo": "m",
+        "telefono": "3212223344",
+        "nombre": "Johan Manuel Henao"
+    },
+    {
+        "foto": "foto2",
+        "fechaNacimiento": "1960-04-12",
+        "correo": "manuloaiza@gmail.com",
+        "identificacion": "A02",
+        "sexo": "f",
+        "telefono": "3145654321",
+        "nombre": "Manuela Loaiza"
+    }
+]

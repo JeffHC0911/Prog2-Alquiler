@@ -1,0 +1,95 @@
+[
+    {
+        "area": 500,
+        "descripcion": "Buen ambiente",
+        "codigo": "I01",
+        "administrador": {
+            "correo": "estebitan12@gmail.com",
+            "identificacion": "E02",
+            "telefono": "3212334332",
+            "nombre": "Esteban Manuel",
+            "perfil": "ADMINISTRADOR"
+        },
+        "valorArriendo": 2500000,
+        "codigoPostal": "12121",
+        "propietaria": {
+            "correo": "inmusa@gmail.com",
+            "direccion": "Bogotá D.C",
+            "nit": "0001111",
+            "telefono": "018009945",
+            "nombre": "INMUEBLES S.A",
+            "gerente": {
+                "correo": "macasa@gmail.com",
+                "identificacion": "E00",
+                "telefono": "3014567812",
+                "nombre": "Mario Casas",
+                "perfil": "GERENTE"
+            }
+        },
+        "direccion": "Pereira",
+        "tipoInmueble": "CASA",
+        "disponible": true
+    },
+    {
+        "area": 650,
+        "descripcion": "Especial para todo",
+        "codigo": "I02",
+        "administrador": {
+            "correo": "mariavar@gmail.com",
+            "identificacion": "E03",
+            "telefono": "3103567850",
+            "nombre": "Maria Vargas",
+            "perfil": "ADMINISTRADOR"
+        },
+        "valorArriendo": 3450000,
+        "codigoPostal": "12122",
+        "propietaria": {
+            "correo": "inmusa@gmail.com",
+            "direccion": "Bogotá D.C",
+            "nit": "0001111",
+            "telefono": "018009945",
+            "nombre": "INMUEBLES S.A",
+            "gerente": {
+                "correo": "macasa@gmail.com",
+                "identificacion": "E00",
+                "telefono": "3014567812",
+                "nombre": "Mario Casas",
+                "perfil": "GERENTE"
+            }
+        },
+        "direccion": "Armenia",
+        "tipoInmueble": "FINCA",
+        "disponible": true
+    },
+    {
+        "area": 350,
+        "descripcion": "Dos pisos",
+        "codigo": "I03",
+        "administrador": {
+            "correo": "manuel@gmail.com",
+            "identificacion": "E05",
+            "telefono": "3213334534",
+            "nombre": "Manuel",
+            "perfil": "ADMINISTRADOR"
+        },
+        "valorArriendo": 1240000,
+        "codigoPostal": "12123",
+        "propietaria": {
+            "correo": "inmusa@gmail.com",
+            "direccion": "Bogotá D.C",
+            "nit": "0001111",
+            "telefono": "018009945",
+            "nombre": "INMUEBLES S.A",
+            "gerente": {
+                "correo": "macasa@gmail.com",
+                "identificacion": "E00",
+                "telefono": "3014567812",
+                "nombre": "Mario Casas",
+                "perfil": "GERENTE"
+            }
+        },
+        "direccion": "Manizales",
+        "tipoInmueble": "EDIFICIO",
+        "disponible": false
+    }
+]

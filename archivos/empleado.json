@@ -1,0 +1,37 @@
+[
+    {
+        "correo": "estebitan12@gmail.com",
+        "identificacion": "E02",
+        "telefono": "3212334332",
+        "nombre": "Esteban Manuel",
+        "perfil": "ADMINISTRADOR"
+    },
+    {
+        "correo": "mariavar@gmail.com",
+        "identificacion": "E03",
+        "telefono": "3103567850",
+        "nombre": "Maria Vargas",
+        "perfil": "ADMINISTRADOR"
+    },
+    {
+        "correo": "sofilop@gmail.com",
+        "identificacion": "E04",
+        "telefono": "3147508906",
+        "nombre": "Sofia Lopez",
+        "perfil": "ADMINISTRADOR"
+    },
+    {
+        "correo": "macasa@gmail.com",
+        "identificacion": "E00",
+        "telefono": "3014567812",
+        "nombre": "Mario Casas",
+        "perfil": "GERENTE"
+    },
+    {
+        "correo": "manuel@gmail.com",
+        "identificacion": "E05",
+        "telefono": "3213334534",
+        "nombre": "Manuel",
+        "perfil": "ADMINISTRADOR"
+    }
+]

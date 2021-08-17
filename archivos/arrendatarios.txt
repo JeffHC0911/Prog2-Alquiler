@@ -1,0 +1,4 @@
+    A01 Johan Manuel Henao                          3212223344 johanmahe@gmail.com       1970-04-20       m   foto1
+    A02 Manuela Loaiza                              3145654321 manuloaiza@gmail.com      1960-04-12       f   foto2
+    A03 Mario Yepes                                 3214567890 mario@gmail.com           2000-02-01       m   foto4
+    A04 Andres                                      3143213344 andres@gmail.com          1978-02-02       m   foto5
